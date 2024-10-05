@@ -32,6 +32,7 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  line-height: 1.17;
 }
 .header-logo .logo-part {
   color: #2e2f42;
@@ -74,6 +75,8 @@ button {
   font-size: 56px;
   line-height: 1.07143;
   letter-spacing: 0.02em;
+  line-height: 1.07;
+  text-align: center;
   color: #fff;
 }
 .home-button {
@@ -110,7 +113,10 @@ button {
   font-size: 36px;
   line-height: 1.11111;
   letter-spacing: 0.02em;
-
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  background-color: #ffffff;
   color: #2e2f42;
 }
 .team-subtitle {
@@ -130,9 +136,11 @@ button {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
+  line-height: 1.11;
   line-height: 1.11111;
   letter-spacing: 0.02em;
-
+  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .portfolio-subtitle {
