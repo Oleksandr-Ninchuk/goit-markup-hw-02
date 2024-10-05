@@ -90,6 +90,9 @@ button {
 .home-button:hover {
   background-color: #404bbf;
 }
+.home-button:focus {
+  background-color: #404bbf;
+}
 
 .advantages-subtitle {
   font-weight: 500;
@@ -119,6 +122,10 @@ button {
   background-color: #ffffff;
   color: #2e2f42;
 }
+.team {
+  background-color: #ffffff;
+}
+
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
