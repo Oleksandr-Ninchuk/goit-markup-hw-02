@@ -45,7 +45,7 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.header-contacts {
+.contact-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -116,9 +116,7 @@ button {
 .team {
   background: #f4f4fd;
 }
-.team-list {
-  background-color: #ffffff;
-}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -127,15 +125,15 @@ button {
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
-  background-color: #ffffff;
   color: #2e2f42;
+}
+.team-item {
+  background-color: #ffffff;
 }
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
-  background-color: #ffffff;
-}
+
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
