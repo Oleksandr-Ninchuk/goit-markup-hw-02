@@ -52,7 +52,10 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.nav-link {
+  color: #2e2f42;
+  color: #434455;
+}
 .nav-link:hover {
   color: #404bbf;
 }
@@ -123,9 +126,11 @@ button {
   color: #2e2f42;
 }
 .team {
+  background-color: #f4f4fd;
+}
+.team-list {
   background-color: #ffffff;
 }
-
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -144,7 +149,6 @@ button {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
