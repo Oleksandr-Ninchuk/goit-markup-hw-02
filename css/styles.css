@@ -52,6 +52,19 @@ button {
   color: #434455;
 }
 
+.nav-link:hover {
+  color: #404bbf;
+}
+.nav-link:focus {
+  color: #404bbf;
+}
+.contact-link:hover {
+  color: #404bbf;
+}
+.contact-link:focus {
+  color: #404bbf;
+}
+
 /*main*/
 .home-page {
   background-color: #2e2f42;
@@ -71,6 +84,10 @@ button {
   color: #fff;
   background-color: #4d5ae5;
 }
+.home-button:hover {
+  background-color: #404bbf;
+}
+
 .advantages-subtitle {
   font-weight: 500;
   font-size: 20px;
