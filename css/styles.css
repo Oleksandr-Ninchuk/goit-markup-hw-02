@@ -58,15 +58,12 @@ button {
 .nav-list a {
   color: #2e2f42;
 }
-.nav-link:hover {
-  color: #404bbf;
-}
+.nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
 }
-.contact-link:hover {
-  color: #404bbf;
-}
+
+.contact-link:hover,
 .contact-link:focus {
   color: #404bbf;
 }
@@ -92,9 +89,7 @@ button {
   color: #fff;
   background-color: #4d5ae5;
 }
-.home-button:hover {
-  background-color: #404bbf;
-}
+.home-button:hover,
 .home-button:focus {
   background-color: #404bbf;
 }
@@ -113,10 +108,10 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .team {
   background: #f4f4fd;
 }
-
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -130,10 +125,6 @@ button {
 .team-item {
   background-color: #ffffff;
 }
-.team {
-  background-color: #f4f4fd;
-}
-
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -148,6 +139,7 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
